@@ -1,105 +1,15 @@
 [
   {
-    "idLokasi": "GRT0320082023T003",
-    "namaPerumahan": "aka kanaya wanaraja",
-    "kecamatan": "Wanaraja",
-    "pengembang": "KANAYA ARAFAH PUTRI"
-  },
-  {
-    "idLokasi": "GRT0620142023T001",
-    "namaPerumahan": "BANYUMUKTI RESIDENCE",
-    "kecamatan": "Banyuresmi",
-    "pengembang": "GARDA ABADI SAKTI"
-  },
-  {
-    "idLokasi": "GRT0620032023T001",
-    "namaPerumahan": "KARISMA RESIDENCE BANYURESMI III",
-    "kecamatan": "Banyuresmi",
-    "pengembang": "KARISMA GRAHA SILIWANGI"
-  },
-  {
-    "idLokasi": "GRT0320082023T001",
-    "namaPerumahan": "Perumahan Dinamika Lestari Residence",
-    "kecamatan": "Wanaraja",
-    "pengembang": "ARTHA DINAMIKA PROPERTY"
-  },
-  {
-    "idLokasi": "GRT3820032023T001",
-    "namaPerumahan": "PERUMAHAN BUKIT GALIH PAKUWON TAHAP II",
-    "kecamatan": "Bl Limbangan",
-    "pengembang": "SABAR INDOUTAMA"
-  },
-  {
-    "idLokasi": "GRT0420042023T001",
-    "namaPerumahan": "Bumi Rancabango Permai II",
-    "kecamatan": "Tarogong Kaler",
-    "pengembang": "RAZA PUTRA MAHKOTA"
-  },
-  {
-    "idLokasi": "GRT0720022023T001",
-    "namaPerumahan": "CITRA LAND SAMARANG",
-    "kecamatan": "Samarang",
-    "pengembang": "HARSA KARYA DELANO"
-  },
-  {
-    "idLokasi": "GRT0620112023T001",
-    "namaPerumahan": "ISTANA BAGENDIT",
-    "kecamatan": "Banyuresmi",
-    "pengembang": "ISTANA FAISINDO UTAMA"
-  },
-  {
     "idLokasi": "GRT0220132023T001",
     "namaPerumahan": "Lebak Agung Residence",
     "kecamatan": "Karangpawitan",
     "pengembang": "BANGUN UTAMA MULIA"
   },
   {
-    "idLokasi": "GRT1120062023T001",
-    "namaPerumahan": "GRIYA AGUNG PERMAI",
-    "kecamatan": "Leuwigoong",
-    "pengembang": "AGUNG SUKSES SANTOSA"
-  },
-  {
-    "idLokasi": "GRT4220042023T001",
-    "namaPerumahan": "GREEN CEMARA ASRI",
-    "kecamatan": "Sucinaraja",
-    "pengembang": "GRAHA INTAN OETAMA"
-  },
-  {
-    "idLokasi": "GRT4020022023T001",
-    "namaPerumahan": "MANDALA CIBIUK HILLS",
-    "kecamatan": "Cibiuk",
-    "pengembang": "GENEP BARAYA SARIKSA"
-  },
-  {
-    "idLokasi": "GRT1220032023T001",
-    "namaPerumahan": "Graha Paramarta",
-    "kecamatan": "Cibatu",
-    "pengembang": "PARAMARTA BIRRU PRATAMA"
-  },
-  {
     "idLokasi": "GRT0920092023T002",
     "namaPerumahan": "GRAND TUNAS REGENCY",
     "kecamatan": "Leles",
-    "pengembang": "TUNAS PRIMA BUANA"
-  },
-  {
-    "idLokasi": "GRT0220152023T003",
-    "namaPerumahan": "Green Mutiara Residence",
-    "kecamatan": "Karangpawitan",
-    "pengembang": "SATRIA GRIYA ABADI"
-  },
-  {
-    "idLokasi": "GRT1420142023T001",
-    "namaPerumahan": "Bumi Citeras Indah",
-    "kecamatan": "Malangbong",
-    "pengembang": "KANDAGA JAYA PROPERTI"
-  },
-  {
-    "idLokasi": "GRT1420072023T001",
-    "namaPerumahan": "GRAHA PESONA MALANGBONG TAHAP III",
-    "kecamatan": "Malangbong",
-    "pengembang": "CIKAL MUTIARA SELARAS"
+    "pengembang": "PT TUNAS PRIMA BUANA"
   },
   {
     "idLokasi": "GRT0620012023T001",
@@ -108,82 +18,40 @@
     "pengembang": "PT SITU GEDE PRATAMA"
   },
   {
-    "idLokasi": "GRT1220082023T001",
-    "namaPerumahan": "AL FAATIHAH RESIDENCE",
-    "kecamatan": "Cibatu",
-    "pengembang": "ALFAATIHAH INDONESIA RAYA"
-  },
-  {
-    "idLokasi": "GRT0220062023T001",
-    "namaPerumahan": "Aka Cimurah Permai",
-    "kecamatan": "Karangpawitan",
-    "pengembang": "AKA RAFASYA PUTRA"
-  },
-  {
-    "idLokasi": "GRT0220152023T001",
-    "namaPerumahan": "TAMAN HIJAU 2",
-    "kecamatan": "Karangpawitan",
-    "pengembang": "DITOM PRAKASA PROPERTY"
-  },
-  {
-    "idLokasi": "GRT1520072023T001",
-    "namaPerumahan": "Green Cisalam 2",
-    "kecamatan": "Sukawening",
-    "pengembang": "ASKARA BERKAH SAUDARA"
-  },
-  {
-    "idLokasi": "GRT0220122023T001",
-    "namaPerumahan": "Harmony Land Sindangpalay",
-    "kecamatan": "Karangpawitan",
-    "pengembang": "HARMONY CAHAYA LAND"
-  },
-  {
-    "idLokasi": "GRT0920092023T001",
-    "namaPerumahan": "Sekala Pasopati",
-    "kecamatan": "Leles",
-    "pengembang": "QIANZY ASKARA NAWASENA"
-  },
-  {
-    "idLokasi": "GRT0220152023T002",
-    "namaPerumahan": "GRIYA NAGROG",
-    "kecamatan": "Karangpawitan",
-    "pengembang": "INFINITY LAND CONNECTING"
-  },
-  {
     "idLokasi": "GRT0220072023T001",
     "namaPerumahan": "Griya Pesona Cempaka",
     "kecamatan": "Karangpawitan",
-    "pengembang": "TUNAS KARYA WASKITA"
+    "pengembang": "PT TUNAS KARYA WASKITA"
   },
   {
     "idLokasi": "GRT1220022023T001",
     "namaPerumahan": "AKA BUNISARI PERMAI",
     "kecamatan": "Cibatu",
-    "pengembang": "AKA RAFASYA PUTRA"
+    "pengembang": "PT AKA RAFASYA PUTRA"
   },
   {
     "idLokasi": "GRT0420062023T001",
     "namaPerumahan": "D'GREEN MUTIARA REGENCY",
     "kecamatan": "Tarogong Kaler",
-    "pengembang": "TEGAR BANGUN PRATAMA"
+    "pengembang": "PT TEGAR BANGUN PRATAMA"
   },
   {
     "idLokasi": "GRT2220052023T001",
     "namaPerumahan": "MEGA GRIYAAWAS CIKAJANG",
     "kecamatan": "Cikajang",
-    "pengembang": "MEGA PROPERTINDO RAHMAN"
+    "pengembang": "PT MEGA PROPERTINDO RAHMAN"
   },
   {
     "idLokasi": "GRT0220152023T004",
     "namaPerumahan": "RABBANY NAGROG KARANGPAWITAN",
     "kecamatan": "Karangpawitan",
-    "pengembang": "ASSANUSIYAH SAPALAPUTRA PROPERTY"
+    "pengembang": "PT ASSANUSIYAH SAPALAPUTRA PROPERTY"
   },
   {
     "idLokasi": "GRT1420072023T002",
     "namaPerumahan": "GREEN CISITU MALANGBONG",
     "kecamatan": "Malangbong",
-    "pengembang": "ADA BERKAH PROPERTI"
+    "pengembang": "PT ADA BERKAH PROPERTI"
   },
   {
     "idLokasi": "GRT0420062023T002",
@@ -195,121 +63,121 @@
     "idLokasi": "GRT0220122023T002",
     "namaPerumahan": "SAS RESIDENCE SINDANGPALAY",
     "kecamatan": "Karangpawitan",
-    "pengembang": "SAS AMANAH SENTOSA"
+    "pengembang": "PT SAS AMANAH SENTOSA"
   },
   {
     "idLokasi": "GRT4020042023T001",
     "namaPerumahan": "Graha Pancar Majasari",
     "kecamatan": "Cibiuk",
-    "pengembang": "PANCAR PAWITAN TRESNASIH"
+    "pengembang": "PT PANCAR PAWITAN TRESNASIH"
   },
   {
     "idLokasi": "GRT1320032023T001",
     "namaPerumahan": "AKA BANDREK PERMAI 2",
     "kecamatan": "Kersamanah",
-    "pengembang": "AKA RAFASYA PUTRA"
+    "pengembang": "PT AKA RAFASYA PUTRA"
   },
   {
     "idLokasi": "GRT0220072023T002",
     "namaPerumahan": "PURI ALAM CEMPAKA",
     "kecamatan": "Karangpawitan",
-    "pengembang": "YUDHA PERKASA INDONESIA JAYA"
+    "pengembang": "PT YUDHA PERKASA INDONESIA JAYA"
   },
   {
     "idLokasi": "GRT0420072023T001",
     "namaPerumahan": "Griya Bumi Kamuning",
     "kecamatan": "Tarogong Kaler",
-    "pengembang": "BAKTI HARAPAN JAYA"
+    "pengembang": "PT BAKTI HARAPAN JAYA"
   },
   {
     "idLokasi": "GRT0620052023T001",
     "namaPerumahan": "OTISTA VILLAGE",
     "kecamatan": "Banyuresmi",
-    "pengembang": "INGSU TAMA LUBISTA"
+    "pengembang": "PT INGSU TAMA LUBISTA"
   },
   {
     "idLokasi": "GRT0110052023T001",
     "namaPerumahan": "PERMATA KARISMA RESIDENCE",
     "kecamatan": "Garut Kota",
-    "pengembang": "KARISMA GRAHA SILIWANGI"
+    "pengembang": "PT KARISMA GRAHA SILIWANGI"
   },
   {
     "idLokasi": "GRT2020092023T001",
     "namaPerumahan": "PANORAMA CIDATAR RESIDENCE",
     "kecamatan": "Cisurupan",
-    "pengembang": "PANORAMA PANCA PERSADA"
+    "pengembang": "PT PANORAMA PANCA PERSADA"
   },
   {
     "idLokasi": "GRT0920082023T001",
     "namaPerumahan": "Griya Rengganis",
     "kecamatan": "Leles",
-    "pengembang": "BUMI SEKAR RENGGANIS"
+    "pengembang": "PT BUMI SEKAR RENGGANIS"
   },
   {
     "idLokasi": "GRT0620142024T001",
     "namaPerumahan": "BANYUMUKTI RESIDENCE 2",
     "kecamatan": "Banyuresmi",
-    "pengembang": "GARDA ABADI SAKTI"
+    "pengembang": "PT GARDA ABADI SAKTI"
   },
   {
     "idLokasi": "GRT0620032024T001",
     "namaPerumahan": "TJARAKA SUKARATU RESIDENCE",
     "kecamatan": "Banyuresmi",
-    "pengembang": "FATIH JAYA BERSINERGI"
+    "pengembang": "PT FATIH JAYA BERSINERGI"
   },
   {
     "idLokasi": "GRT0720032024T001",
     "namaPerumahan": "Grand Cikiara Residence",
     "kecamatan": "Samarang",
-    "pengembang": "NILANDO INDAH PRATAMA"
+    "pengembang": "PT NILANDO INDAH PRATAMA"
   },
   {
     "idLokasi": "GRT0920092024T001",
     "namaPerumahan": "HIJRA PASOPATI LAND",
     "kecamatan": "Leles",
-    "pengembang": "HIJRA AMANAH PROPERTY"
+    "pengembang": "PT HIJRA AMANAH PROPERTY"
   },
   {
     "idLokasi": "GRT0420042024T001",
     "namaPerumahan": "Rancabango Intan Residence Tahap III",
     "kecamatan": "Tarogong Kaler",
-    "pengembang": "INARA TIGA PRAKARSA"
+    "pengembang": "PT INARA TIGA PRAKARSA"
   },
   {
     "idLokasi": "GRT0920092024T002",
     "namaPerumahan": "Ghani Margaluyu Residence",
     "kecamatan": "Leles",
-    "pengembang": "GHANI RAHMA LESMANA"
+    "pengembang": "PT GHANI RAHMA LESMANA"
   },
   {
     "idLokasi": "GRT1120062024T001",
     "namaPerumahan": "PERUMAHAN REKSA JAYA LAND",
     "kecamatan": "Leuwigoong",
-    "pengembang": "RAHWANA JAYA LAND"
+    "pengembang": "PT RAHWANA JAYA LAND"
   },
   {
     "idLokasi": "GRT0920062024T001",
     "namaPerumahan": "RENJANA PASOPATI",
     "kecamatan": "Leles",
-    "pengembang": "TERRA RENJANA ADYATAMA"
+    "pengembang": "PT TERRA RENJANA ADYATAMA"
   },
   {
     "idLokasi": "GRT0620052024T001",
     "namaPerumahan": "PRAKARSA PERDANA RESIDENCE",
     "kecamatan": "Banyuresmi",
-    "pengembang": "PRAKARSA CATUR PROPERTINDO"
+    "pengembang": "PT PRAKARSA CATUR PROPERTINDO"
   },
   {
     "idLokasi": "GRT1920112024T001",
     "namaPerumahan": "GRIYA ANGGREK MARGALAKSANA",
     "kecamatan": "Cilawu",
-    "pengembang": "KAYLLA PUTRA PRATAMA"
+    "pengembang": "PT KAYLLA PUTRA PRATAMA"
   },
   {
     "idLokasi": "GRT2220092024T001",
     "namaPerumahan": "Tata Maja Padasuka",
     "kecamatan": "Cikajang",
-    "pengembang": "MEDIAN KARYA OETAMA"
+    "pengembang": "PT MEDIAN KARYA OETAMA"
   },
   {
     "idLokasi": "GRT0420102024T001",
@@ -321,61 +189,61 @@
     "idLokasi": "GRT1420222024T001",
     "namaPerumahan": "PERUMAHAN AKA LEWO PERMAI",
     "kecamatan": "Malangbong",
-    "pengembang": "AKA RAFASYA PUTRA"
+    "pengembang": "PT AKA RAFASYA PUTRA"
   },
   {
     "idLokasi": "GRT0420072024T001",
     "namaPerumahan": "PERUMAHAN PURI ALLEGRA TANJUNG KAMUNING",
     "kecamatan": "Tarogong Kaler",
-    "pengembang": "ALLEGRA BUMI PRATAMA"
+    "pengembang": "PT ALLEGRA BUMI PRATAMA"
   },
   {
     "idLokasi": "GRT1220042024T001",
     "namaPerumahan": "AKA SINDANGSUKA CIBATU",
     "kecamatan": "Cibatu",
-    "pengembang": "AKA RAFASYA PUTRA"
+    "pengembang": "PT AKA RAFASYA PUTRA"
   },
   {
     "idLokasi": "GRT0520102024T001",
     "namaPerumahan": "BUKIT GARDENIA RESORT",
     "kecamatan": "Tarogong Kidul",
-    "pengembang": "BUMI AGUNG PUTRA"
+    "pengembang": "PT BUMI AGUNG PUTRA"
   },
   {
     "idLokasi": "GRT0920042024T001",
     "namaPerumahan": "SINDANGSUKA REGENCY",
     "kecamatan": "Leles",
-    "pengembang": "CAHAYA LESTARI LAND"
+    "pengembang": "PT CAHAYA LESTARI LAND"
   },
   {
     "idLokasi": "GRT0220152024T001",
     "namaPerumahan": "Green Mutiara Residence Tahap II",
     "kecamatan": "Karangpawitan",
-    "pengembang": "SATRIA GRIYA ABADI"
+    "pengembang": "PT SATRIA GRIYA ABADI"
   },
   {
     "idLokasi": "GRT0620032024T002",
     "namaPerumahan": "KANAKA CIBEUREUM",
     "kecamatan": "Banyuresmi",
-    "pengembang": "HANSA NARATAMA AKUSARA"
+    "pengembang": "PT HANSA NARATAMA AKUSARA"
   },
   {
     "idLokasi": "GRT0220072024T001",
     "namaPerumahan": "GRIYA PESONA CEMPAKA TAHAP 2",
     "kecamatan": "Karangpawitan",
-    "pengembang": "TUNAS KARYA WASKITA"
+    "pengembang": "PT TUNAS KARYA WASKITA"
   },
   {
     "idLokasi": "GRT0920062024T002",
     "namaPerumahan": "RIDWAN REGENCY LELES",
     "kecamatan": "Leles",
-    "pengembang": "RIDWAN BERKAH JAYA"
+    "pengembang": "PT RIDWAN BERKAH JAYA"
   },
   {
     "idLokasi": "GRT0620122024T001",
     "namaPerumahan": "Green Karyamukti",
     "kecamatan": "Banyuresmi",
-    "pengembang": "ASKARA BERKAH SAUDARA"
+    "pengembang": "PT ASKARA BERKAH SAUDARA"
   },
   {
     "idLokasi": "GRT4220042024T001",
@@ -393,13 +261,13 @@
     "idLokasi": "GRT0220172024T001",
     "namaPerumahan": "SENJA RESIDENCE",
     "kecamatan": "Karangpawitan",
-    "pengembang": "GINANJAR JAYA MANDIRI"
+    "pengembang": "PT GINANJAR JAYA MANDIRI"
   },
   {
     "idLokasi": "GRT0220122024T001",
     "namaPerumahan": "SIPAKAR CORNER REGENCY",
     "kecamatan": "Karangpawitan",
-    "pengembang": "DUKI WIJAYA PROPERTINDO"
+    "pengembang": "PT DUKI WIJAYA PROPERTINDO"
   },
   {
     "idLokasi": "GRT0220042024T001",
@@ -411,79 +279,73 @@
     "idLokasi": "GRT0420062024T001",
     "namaPerumahan": "PANORAMA SIRNAJAYA RESIDENCE",
     "kecamatan": "Tarogong Kaler",
-    "pengembang": "HALIMANU JAYA PERKASA"
+    "pengembang": "PT HALIMANU JAYA PERKASA"
   },
   {
     "idLokasi": "GRT0720052024T001",
     "namaPerumahan": "Godam Sawargi Residence",
     "kecamatan": "Samarang",
-    "pengembang": "GODAM SEJAHTERA ABADI"
+    "pengembang": "PT GODAM SEJAHTERA ABADI"
   },
   {
     "idLokasi": "GRT0220152024T002",
     "namaPerumahan": "Nusa Land Karangpawitan",
     "kecamatan": "Karangpawitan",
-    "pengembang": "DJOGLO MEGAH PROPERTINDO"
+    "pengembang": "PT DJOGLO MEGAH PROPERTINDO"
   },
   {
     "idLokasi": "GRT0110102024T001",
     "namaPerumahan": "Perumahan Faris Regency 2",
     "kecamatan": "Garut Kota",
-    "pengembang": "FARIS LUKMAN JAYA"
+    "pengembang": "PT FARIS LUKMAN JAYA"
   },
   {
     "idLokasi": "GRT4220042024T002",
     "namaPerumahan": "SELERA RESIDENCE",
     "kecamatan": "Sucinaraja",
-    "pengembang": "SELERA AMNI NUSANTARA"
+    "pengembang": "PT SELERA AMNI NUSANTARA"
   },
   {
     "idLokasi": "GRT1820022024T001",
     "namaPerumahan": "GREEN BARUSUDA INDAH",
     "kecamatan": "Cigedug",
-    "pengembang": "ADA BERKAH PROPERTI"
+    "pengembang": "PT ADA BERKAH PROPERTI"
   },
   {
     "idLokasi": "GRT0220072024T002",
     "namaPerumahan": "Griya Mustika Cempaka",
     "kecamatan": "Karangpawitan",
-    "pengembang": "AMANDA PILAR SEJAHTERA"
+    "pengembang": "PT AMANDA PILAR SEJAHTERA"
   },
   {
     "idLokasi": "GRT3820042024T001",
     "namaPerumahan": "LEBAK NANGKA CITY LAND",
-    "kecamatan": "Bl Limbangan",
-    "pengembang": "LEBAK NANGKA AL NUSANTARA"
+    "kecamatan": "Limbangan",
+    "pengembang": "PT LEBAK NANGKA AL NUSANTARA"
   },
   {
     "idLokasi": "GRT0420072024T002",
     "namaPerumahan": "Perumahan Bukit Dfayu Residence",
     "kecamatan": "Tarogong Kaler",
-    "pengembang": "BUMI DFAYU PARAHYANGAN"
+    "pengembang": "PT BUMI DFAYU PARAHYANGAN"
   },
   {
     "idLokasi": "GRT0320082024T001",
     "namaPerumahan": "BUMI SINDANGRATU INDAH TAHAP 2",
     "kecamatan": "Wanaraja",
-    "pengembang": "PATRAYA CIPTA SARANA"
+    "pengembang": "PT PATRAYA CIPTA SARANA"
   },
   {
     "idLokasi": "GRT0420062025T001",
     "namaPerumahan": "peak garden",
     "kecamatan": "Tarogong Kaler",
-    "pengembang": "UTAMA MULYA FAMILY"
-  },
-  {
-    "idLokasi": "GRT0220182025T001",
-    "namaPerumahan": "ROYAL RABBANY CIPARAY",
-    "kecamatan": "Karangpawitan",
-    "pengembang": "ASSANUSIYAH SEMBILAN PUTRA"
+    "pengembang": "PT UTAMA MULYA FAMILY"
   },
   {
     "idLokasi": "GRT0720022025T001",
     "namaPerumahan": "Taman Bukit Alam",
     "kecamatan": "Samarang",
-    "pengembang": "AS SALMA"
+    "pengembang": "CV AS SALMA"
   },
   {
     "idLokasi": "GRT0110062024T001",
@@ -495,67 +357,73 @@
     "idLokasi": "GRT1220022025T001",
     "namaPerumahan": "Bukit Rovita Indah",
     "kecamatan": "Cibatu",
-    "pengembang": "ROVITA PROPERTINDO SUKSES"
+    "pengembang": "PT ROVITA PROPERTINDO SUKSES"
   },
   {
     "idLokasi": "GRT0520032025T001",
     "namaPerumahan": "BUMI ANGGREK RESIDENCE 2 & 3",
     "kecamatan": "Tarogong Kidul",
-    "pengembang": "KAYLLA PUTRA PRATAMA"
+    "pengembang": "PT KAYLLA PUTRA PRATAMA"
   },
   {
     "idLokasi": "GRT4020042025T001",
     "namaPerumahan": "AKA ARUNIKA MAJASARI PERMAI",
     "kecamatan": "Cibiuk",
-    "pengembang": "ADITAMA PUTRA PROPERTI"
+    "pengembang": "PT ADITAMA PUTRA PROPERTI"
   },
   {
     "idLokasi": "GRT0620052025T001",
     "namaPerumahan": "BUANA GARUT RAYA",
     "kecamatan": "Banyuresmi",
-    "pengembang": "CIKAL BUANA PERSADA"
+    "pengembang": "PT CIKAL BUANA PERSADA"
   },
   {
     "idLokasi": "GRT0720032025T001",
     "namaPerumahan": "PERUMAHAN PURI ALLEGRA SAMARANG",
     "kecamatan": "Samarang",
-    "pengembang": "ALLEGRA BUMI PRATAMA"
+    "pengembang": "PT ALLEGRA BUMI PRATAMA"
   },
   {
     "idLokasi": "GRT1420222025T001",
     "namaPerumahan": "PERUMAHAN AKA LEWO 2",
     "kecamatan": "Malangbong",
-    "pengembang": "AKA RAFASYA PUTRA"
+    "pengembang": "PT AKA RAFASYA PUTRA"
   },
   {
     "idLokasi": "GRT3820062025T001",
     "namaPerumahan": "AKA NEGLASARI PERMAI",
-    "kecamatan": "Bl Limbangan",
-    "pengembang": "AKA RAFASYA PUTRA"
+    "kecamatan": "Limbangan",
+    "pengembang": "PT AKA RAFASYA PUTRA"
   },
   {
     "idLokasi": "GRT0720092025T001",
     "namaPerumahan": "Kanaya Samarang Residence",
     "kecamatan": "Samarang",
-    "pengembang": "KANAYA ARAFAH PUTRI"
+    "pengembang": "PT KANAYA ARAFAH PUTRI"
   },
   {
     "idLokasi": "GRT2020012025T001",
     "namaPerumahan": "The Maleaka Residence",
     "kecamatan": "Cisurupan",
-    "pengembang": "PRIATNA MANUNGGAL LIMA"
+    "pengembang": "PT PRIATNA MANUNGGAL LIMA"
   },
   {
     "idLokasi": "GRT4020022025T001",
     "namaPerumahan": "Cibiuk Residence",
     "kecamatan": "Cibiuk",
-    "pengembang": "KARYA CIPTA SANJAYA"
+    "pengembang": "PT KARYA CIPTA SANJAYA"
   },
   {
     "idLokasi": "GRT0420062025T002",
     "namaPerumahan": "GARUT NIRWANA RESIDENCE",
     "kecamatan": "Tarogong Kaler",
-    "pengembang": "SUNDA WANGI TOHAGA"
+    "pengembang": "PT SUNDA WANGI TOHAGA"
+  },
+  {
+    "idLokasi": "GRT1820022026T001",
+    "namaPerumahan": "HARIKA LAND BARUSUDA",
+    "kecamatan": "Cigedug",
+    "pengembang": "PT HARIKA CIPTA MANDIRI"
   },
   {
     "idLokasi": "GRT4220042025T001",
@@ -567,37 +435,181 @@
     "idLokasi": "GRT3020072025T001",
     "namaPerumahan": "Puri Cahaya Cikelet",
     "kecamatan": "Cikelet",
-    "pengembang": "CAHAYA PRATAMA PROPERTINDO"
+    "pengembang": "PT CAHAYA PRATAMA PROPERTINDO"
   },
   {
     "idLokasi": "GRT0420042025T001",
     "namaPerumahan": "RANCABANGO INTAN RESIDENCE TAHAP IV",
     "kecamatan": "Tarogong Kaler",
-    "pengembang": "INARA TIGA PRAKARSA"
+    "pengembang": "PT INARA TIGA PRAKARSA"
   },
   {
     "idLokasi": "GRT1120052025T001",
     "namaPerumahan": "Hijra Pasopati Land 2",
     "kecamatan": "Leuwigoong",
-    "pengembang": "HIJRA AMANAH PROPERTY"
+    "pengembang": "PT HIJRA AMANAH PROPERTY"
   },
   {
     "idLokasi": "GRT0220062025T001",
     "namaPerumahan": "ASBRI REGENCY CIMURAH",
     "kecamatan": "Karangpawitan",
-    "pengembang": "ASEP BERKAH MANDIRI"
+    "pengembang": "PT ASEP BERKAH MANDIRI"
   },
   {
     "idLokasi": "GRT0220052025T001",
     "namaPerumahan": "Kota Impian Situ Gede",
     "kecamatan": "Karangpawitan",
-    "pengembang": "INOVASI HUNIAN NUSANTARA"
+    "pengembang": "PT INOVASI HUNIAN NUSANTARA"
   },
   {
-    "idLokasi": "GRT0320082023T002",
-    "namaPerumahan": "Dinamika Lestari Residence",
+    "idLokasi": "GRT4120022025T001",
+    "namaPerumahan": "Royal Cimaragas Village",
+    "kecamatan": "Pangatikan",
+    "pengembang": "PT FARSA SINERGY PROPERTY"
+  },
+  {
+    "idLokasi": "GRT0220172025T001",
+    "namaPerumahan": "PERUM BERKAH SINDANGLAYA RESIDENCE",
+    "kecamatan": "Karangpawitan",
+    "pengembang": "PT BERKAH TUNAS SENTOSA"
+  },
+  {
+    "idLokasi": "GRT0420102025T001",
+    "namaPerumahan": "GRIYA MALAYU",
+    "kecamatan": "Tarogong Kaler",
+    "pengembang": "PT SAFWAN FADILLAH RAHMAN"
+  },
+  {
+    "idLokasi": "GRT0920092025T001",
+    "namaPerumahan": "TAMALAND",
+    "kecamatan": "Leles",
+    "pengembang": "PT INGSU TAMA LUBISTA"
+  },
+  {
+    "idLokasi": "GRT2220032025T001",
+    "namaPerumahan": "GREEN MEKARSARI INDAH",
+    "kecamatan": "Cikajang",
+    "pengembang": "PT ADA BERKAH PROPERTI"
+  },
+  {
+    "idLokasi": "GRT2020132026T001",
+    "namaPerumahan": "KYARRA ARTHA",
+    "kecamatan": "Cisurupan",
+    "pengembang": "PT PANCA JASA SARANA"
+  },
+  {
+    "idLokasi": "GRT0620142025T001",
+    "namaPerumahan": "BANYUMUKTI RESIDENCE TAHAP 3",
+    "kecamatan": "Banyuresmi",
+    "pengembang": "PT GARDA ABADI SAKTI"
+  },
+  {
+    "idLokasi": "GRT0220072025T001",
+    "namaPerumahan": "Cendana Residence",
+    "kecamatan": "Karangpawitan",
+    "pengembang": "PT SINARMAS SENTOSA ABADI"
+  },
+  {
+    "idLokasi": "GRT2020132025T001",
+    "namaPerumahan": "PURI CISURUPAN",
+    "kecamatan": "Cisurupan",
+    "pengembang": "PT MANCA GAHAR PERSADA"
+  },
+  {
+    "idLokasi": "GRT0620062025T001",
+    "namaPerumahan": "ARETA TERRA",
+    "kecamatan": "Banyuresmi",
+    "pengembang": "PT TRIYANA ARETA UTAMA"
+  },
+  {
+    "idLokasi": "GRT1420142026T001",
+    "namaPerumahan": "PESONA CAMPAKA RESIDENCE",
+    "kecamatan": "Malangbong",
+    "pengembang": "PT SUNDARI SINAR HARAPAN"
+  },
+  {
+    "idLokasi": "GRT2220062026T001",
+    "namaPerumahan": "INARA BUMI CIKAJANG",
+    "kecamatan": "Cikajang",
+    "pengembang": "PT HARSA KARYA DELANO"
+  },
+  {
+    "idLokasi": "GRT2020092026T001",
+    "namaPerumahan": "Sukahaji Cisero Residence",
+    "kecamatan": "Cisurupan",
+    "pengembang": "PT MARGA SUNDA PROPERTI"
+  },
+  {
+    "idLokasi": "GRT0220042026T001",
+    "namaPerumahan": "Prakarsa Dvitya Residence",
+    "kecamatan": "Karangpawitan",
+    "pengembang": "PT PRAKARSA CATUR PROPERTINDO"
+  },
+  {
+    "idLokasi": "GRT0420042026T001",
+    "namaPerumahan": "RANCABANGO INTAN RESIDENCE TAHAP V",
+    "kecamatan": "Tarogong Kaler",
+    "pengembang": "PT INARA TIGA PRAKARSA"
+  },
+  {
+    "idLokasi": "GRT2020012026T001",
+    "namaPerumahan": "TAMAN BUKIT PAPANDAYAN",
+    "kecamatan": "Cisurupan",
+    "pengembang": "PT SURYA SATYAWIRA PROPERTI"
+  },
+  {
+    "idLokasi": "GRT0720022026T001",
+    "namaPerumahan": "Alfatih Malayu Hills",
+    "kecamatan": "Samarang",
+    "pengembang": "PT ALFATIH SAGARA MUHARRAM"
+  },
+  {
+    "idLokasi": "GRT2220012026T001",
+    "namaPerumahan": "SURYA ALAM CIKAJANG",
+    "kecamatan": "Cikajang",
+    "pengembang": "PT SAFWAN FADILLAH RAHMAN"
+  },
+  {
+    "idLokasi": "GRT2120012026T001",
+    "namaPerumahan": "ISTANA SUKARESMI",
+    "kecamatan": "Sukaresmi",
+    "pengembang": "PT ISTANA JUWITA AFFANDI"
+  },
+  {
+    "idLokasi": "GRT0320022026T001",
+    "namaPerumahan": "Wanaking's Garden",
     "kecamatan": "Wanaraja",
-    "pengembang": "ARTHA DINAMIKA PROPERTY"
+    "pengembang": "PT ZOELVA PROPERTINDO ZHAVRAN"
+  },
+  {
+    "idLokasi": "GRT1920172026T001",
+    "namaPerumahan": "GREEN SUKATANI INDAH",
+    "kecamatan": "Cilawu",
+    "pengembang": "PT ADA BERKAH PROPERTI"
+  },
+  {
+    "idLokasi": "GRT0320082026T001",
+    "namaPerumahan": "Ramadesa Residence",
+    "kecamatan": "Wanaraja",
+    "pengembang": "PT LENTERA TALAGA BODAS"
+  },
+  {
+    "idLokasi": "GRT0320082026T002",
+    "namaPerumahan": "Ramadesa Residence 2",
+    "kecamatan": "Wanaraja",
+    "pengembang": "PT LENTERA TALAGA BODAS"
+  },
+  {
+    "idLokasi": "GRT0320082023T003",
+    "namaPerumahan": "aka kanaya wanaraja",
+    "kecamatan": "Wanaraja",
+    "pengembang": "PT KANAYA ARAFAH PUTRI"
+  },
+  {
+    "idLokasi": "GRT0620142023T001",
+    "namaPerumahan": "BANYUMUKTI RESIDENCE",
+    "kecamatan": "Banyuresmi",
+    "pengembang": "PT GARDA ABADI SAKTI"
   },
   {
     "idLokasi": "GRT2920062021T001",
@@ -606,64 +618,88 @@
     "pengembang": "SIDIQ MANDIRI KARYA"
   },
   {
+    "idLokasi": "GRT0620032023T001",
+    "namaPerumahan": "KARISMA RESIDENCE BANYURESMI III",
+    "kecamatan": "Banyuresmi",
+    "pengembang": "PT KARISMA GRAHA SILIWANGI"
+  },
+  {
+    "idLokasi": "GRT0320082023T001",
+    "namaPerumahan": "Perumahan Dinamika Lestari Residence",
+    "kecamatan": "Wanaraja",
+    "pengembang": "PT ARTHA DINAMIKA PROPERTY"
+  },
+  {
     "idLokasi": "GRT0220042022T001",
     "namaPerumahan": "GRIYA BTS CIKAWUNG",
     "kecamatan": "Karangpawitan",
-    "pengembang": "PT. BERKAH TUNAS SENTOSA"
+    "pengembang": "PT BERKAH TUNAS SENTOSA"
+  },
+  {
+    "idLokasi": "GRT3820032023T001",
+    "namaPerumahan": "PERUMAHAN BUKIT GALIH PAKUWON TAHAP II",
+    "kecamatan": "Limbangan",
+    "pengembang": "SABAR INDOUTAMA"
   },
   {
     "idLokasi": "GRT0220122022T001",
     "namaPerumahan": "Taman Namura Sindangpalay",
     "kecamatan": "Karangpawitan",
-    "pengembang": "NAMURA INDAH"
+    "pengembang": "PT NAMURA INDAH"
   },
   {
     "idLokasi": "GRT0510022022T001",
     "namaPerumahan": "Pamoyanan Residence",
     "kecamatan": "Tarogong Kidul",
-    "pengembang": "BANGUN KREASI INTAN PERDANA"
+    "pengembang": "PT BANGUN KREASI INTAN PERDANA"
   },
   {
     "idLokasi": "GRT0520112021T001",
     "namaPerumahan": "Pondok Indah Kersamenak",
     "kecamatan": "Tarogong Kidul",
-    "pengembang": "WIJAYA PERDANA SEJAHTERA"
+    "pengembang": "PT WIJAYA PERDANA SEJAHTERA"
+  },
+  {
+    "idLokasi": "GRT0420042023T001",
+    "namaPerumahan": "Bumi Rancabango Permai II",
+    "kecamatan": "Tarogong Kaler",
+    "pengembang": "PT RAZA PUTRA MAHKOTA"
   },
   {
     "idLokasi": "GRT3020012021T001",
     "namaPerumahan": "Pesona Cikelet",
     "kecamatan": "Cikelet",
-    "pengembang": "LIMA PILAR PERSADA MANDIRI"
+    "pengembang": "PT LIMA PILAR PERSADA MANDIRI"
   },
   {
     "idLokasi": "GRT1720022022T001",
     "namaPerumahan": "Panorama Panembong Residence",
     "kecamatan": "Bayongbong",
-    "pengembang": "INSAN ALFA JAYA"
+    "pengembang": "PT INSAN ALFA JAYA"
+  },
+  {
+    "idLokasi": "GRT0720022023T001",
+    "namaPerumahan": "CITRA LAND SAMARANG",
+    "kecamatan": "Samarang",
+    "pengembang": "PT HARSA KARYA DELANO"
   },
   {
     "idLokasi": "GRT0220192022T001",
     "namaPerumahan": "AKA KARANGPAWITAN PERMAI 2",
     "kecamatan": "Karangpawitan",
-    "pengembang": "AKA RAFASYA PUTRA"
-  },
-  {
-    "idLokasi": "GRT0420102020T003",
-    "namaPerumahan": "Perumahan Bumi Mekarwangi",
-    "kecamatan": "Tarogong Kaler",
-    "pengembang": "BUMI WIDJAJA UTAMA"
+    "pengembang": "PT AKA RAFASYA PUTRA"
   },
   {
     "idLokasi": "GRT0420042022T002",
     "namaPerumahan": "Rancabango Hills",
     "kecamatan": "Tarogong Kaler",
-    "pengembang": "FAUZAN PRIATNA MANDIRI"
+    "pengembang": "PT FAUZAN PRIATNA MANDIRI"
   },
   {
     "idLokasi": "GRT3820032022T001",
     "namaPerumahan": "Pesona galih pakuwon",
-    "kecamatan": "Bl Limbangan",
-    "pengembang": "PESONA ASRI LESTARI"
+    "kecamatan": "Limbangan",
+    "pengembang": "PT PESONA ASRI LESTARI"
   },
   {
     "idLokasi": "GRT1420072021T001",
@@ -678,22 +714,40 @@
     "pengembang": "REKASARANA PERSADA"
   },
   {
+    "idLokasi": "GRT1120062023T001",
+    "namaPerumahan": "GRIYA AGUNG PERMAI",
+    "kecamatan": "Leuwigoong",
+    "pengembang": "PT AGUNG SUKSES SANTOSA"
+  },
+  {
     "idLokasi": "GRT0320082022T002",
     "namaPerumahan": "DINAMIKA LESTARI RESIDENCE",
     "kecamatan": "Wanaraja",
-    "pengembang": "ARTHA DINAMIKA PROPERTY"
+    "pengembang": "PT ARTHA DINAMIKA PROPERTY"
   },
   {
     "idLokasi": "GRT2020072022T001",
     "namaPerumahan": "PERMATA INDAH CISURUPAN",
     "kecamatan": "Cisurupan",
-    "pengembang": "PONDOK INDAH MANDIRI"
+    "pengembang": "PT PONDOK INDAH MANDIRI"
+  },
+  {
+    "idLokasi": "GRT4220042023T001",
+    "namaPerumahan": "GREEN CEMARA ASRI",
+    "kecamatan": "Sucinaraja",
+    "pengembang": "PT GRAHA INTAN OETAMA"
+  },
+  {
+    "idLokasi": "GRT4020022023T001",
+    "namaPerumahan": "MANDALA CIBIUK HILLS",
+    "kecamatan": "Cibiuk",
+    "pengembang": "PT GENEP BARAYA SARIKSA"
   },
   {
     "idLokasi": "GRT0210022021T001",
     "namaPerumahan": "Cempaka Permai Residence",
     "kecamatan": "Karangpawitan",
-    "pengembang": "KAYLLA PUTRA PRATAMA"
+    "pengembang": "PT KAYLLA PUTRA PRATAMA"
   },
   {
     "idLokasi": "GRT1420042022T001",
@@ -704,50 +758,56 @@
   {
     "idLokasi": "GRT3820122022T001",
     "namaPerumahan": "PERUMAHAN PURI KULSUM TAHAP 2",
-    "kecamatan": "Bl Limbangan",
-    "pengembang": "LEBAK NANGKA AL NUSANTARA"
+    "kecamatan": "Limbangan",
+    "pengembang": "PT LEBAK NANGKA AL NUSANTARA"
   },
   {
     "idLokasi": "GRT0920062021T001",
     "namaPerumahan": "Perumahan Kalea Pasopati 2",
     "kecamatan": "Leles",
-    "pengembang": "PRIATNA MANUNGGAL LIMA"
+    "pengembang": "PT PRIATNA MANUNGGAL LIMA"
   },
   {
     "idLokasi": "GRT1320032022T001",
     "namaPerumahan": "AKA Bandrek Permai",
     "kecamatan": "Kersamanah",
-    "pengembang": "AKA RAFASYA PUTRA"
+    "pengembang": "PT AKA RAFASYA PUTRA"
+  },
+  {
+    "idLokasi": "GRT1220032023T001",
+    "namaPerumahan": "Graha Paramarta",
+    "kecamatan": "Cibatu",
+    "pengembang": "PT PARAMARTA BIRRU PRATAMA"
   },
   {
     "idLokasi": "GRT1520072021T001",
     "namaPerumahan": "Green Cisalam Permai",
     "kecamatan": "Sukawening",
-    "pengembang": "ASKARA BERKAH SAUDARA"
+    "pengembang": "PT ASKARA BERKAH SAUDARA"
   },
   {
     "idLokasi": "GRT0220182022T002",
     "namaPerumahan": "GRAND HOUSE RESIDENCE CLUSTER AL-FATH",
     "kecamatan": "Karangpawitan",
-    "pengembang": "SINAR GODAM"
+    "pengembang": "PT SINAR GODAM"
   },
   {
     "idLokasi": "GRT0110022022T001",
     "namaPerumahan": "Ruma Putih Asaka",
     "kecamatan": "Garut Kota",
-    "pengembang": "RUMA KAMI PROPERTI"
+    "pengembang": "PT RUMA KAMI PROPERTI"
   },
   {
     "idLokasi": "GRT2920062021T002",
     "namaPerumahan": "SAWUNG GARDEN",
     "kecamatan": "Cibalong",
-    "pengembang": "REKA BENTUK RUMAH"
+    "pengembang": "PT REKA BENTUK RUMAH"
   },
   {
     "idLokasi": "GRT0420062022T002",
     "namaPerumahan": "Cemara Pandan Indah",
     "kecamatan": "Tarogong Kaler",
-    "pengembang": "DJIBRIL CEMARA OETAMA"
+    "pengembang": "PT DJIBRIL CEMARA OETAMA"
   },
   {
     "idLokasi": "GRT0620012022T001",
@@ -759,25 +819,37 @@
     "idLokasi": "GRT0110102022T001",
     "namaPerumahan": "Faris Regency",
     "kecamatan": "Garut Kota",
-    "pengembang": "FARIS LUKMAN JAYA"
+    "pengembang": "PT FARIS LUKMAN JAYA"
   },
   {
     "idLokasi": "GRT0620142021T004",
     "namaPerumahan": "SUKAMUKTI REGENCY TAHAP 2",
     "kecamatan": "Banyuresmi",
-    "pengembang": "GOLDEN KREASI MANDIRI"
+    "pengembang": "PT GOLDEN KREASI MANDIRI"
   },
   {
     "idLokasi": "GRT0320012022T001",
     "namaPerumahan": "GHANI CINUNUK INDAH",
     "kecamatan": "Wanaraja",
-    "pengembang": "GHANI RAHMA LESMANA"
+    "pengembang": "PT GHANI RAHMA LESMANA"
+  },
+  {
+    "idLokasi": "GRT0220152023T003",
+    "namaPerumahan": "Green Mutiara Residence",
+    "kecamatan": "Karangpawitan",
+    "pengembang": "PT SATRIA GRIYA ABADI"
   },
   {
     "idLokasi": "GRT1120062022T001",
     "namaPerumahan": "PERUMAHAN GRIYA PASOPATI REGENCY",
     "kecamatan": "Leuwigoong",
-    "pengembang": "PT. BANGUN SINERGI JAYA"
+    "pengembang": "PT PT. BANGUN SINERGI JAYA"
+  },
+  {
+    "idLokasi": "GRT1420142023T001",
+    "namaPerumahan": "Bumi Citeras Indah",
+    "kecamatan": "Malangbong",
+    "pengembang": "PT KANDAGA JAYA PROPERTI"
   },
   {
     "idLokasi": "GRT0420062022T001",
@@ -789,7 +861,7 @@
     "idLokasi": "GRT0220192022T002",
     "namaPerumahan": "BELAH JAWA PERMAI II",
     "kecamatan": "Karangpawitan",
-    "pengembang": "BANGKIT SAKTI WIGUNA"
+    "pengembang": "PT BANGKIT SAKTI WIGUNA"
   },
   {
     "idLokasi": "GRT1520042022T001",
@@ -798,22 +870,28 @@
     "pengembang": "CITRA WINABUANA KENCANA"
   },
   {
+    "idLokasi": "GRT1420072023T001",
+    "namaPerumahan": "GRAHA PESONA MALANGBONG TAHAP III",
+    "kecamatan": "Malangbong",
+    "pengembang": "CIKAL MUTIARA SELARAS"
+  },
+  {
     "idLokasi": "GRT2020022022T001",
     "namaPerumahan": "Bumi sakinah cidatar",
     "kecamatan": "Cisurupan",
-    "pengembang": "MITRATAMA PENGEMBANG SEJAHTERA"
+    "pengembang": "PT MITRATAMA PENGEMBANG SEJAHTERA"
   },
   {
     "idLokasi": "GRT1220112022T001",
     "namaPerumahan": "Perumahan Green Wanakerta",
     "kecamatan": "Cibatu",
-    "pengembang": "ASKARA BERKAH SAUDARA"
+    "pengembang": "PT ASKARA BERKAH SAUDARA"
   },
   {
     "idLokasi": "GRT0320022023T001",
     "namaPerumahan": "PERUMAHAN SYIFA GRAHA WANAMEKAR",
     "kecamatan": "Wanaraja",
-    "pengembang": "KAYLLA PUTRA PRATAMA"
+    "pengembang": "PT KAYLLA PUTRA PRATAMA"
   },
   {
     "idLokasi": "GRT1120062021T002",
@@ -825,19 +903,31 @@
     "idLokasi": "GRT0620092022T001",
     "namaPerumahan": "BUKIT ZULFA PAMEKARSARI",
     "kecamatan": "Banyuresmi",
-    "pengembang": "ZULFA NAZWAN UTAMA"
+    "pengembang": "PT ZULFA NAZWAN UTAMA"
+  },
+  {
+    "idLokasi": "GRT1220082023T001",
+    "namaPerumahan": "AL FAATIHAH RESIDENCE",
+    "kecamatan": "Cibatu",
+    "pengembang": "ALFAATIHAH INDONESIA RAYA"
   },
   {
     "idLokasi": "GRT0420042022T001",
     "namaPerumahan": "GRIYA MUTIARA RANCABANGO",
     "kecamatan": "Tarogong Kaler",
-    "pengembang": "SATRIA GRIYA ABADI"
+    "pengembang": "PT SATRIA GRIYA ABADI"
   },
   {
     "idLokasi": "GRT1220082022T001",
     "namaPerumahan": "Bukit Biduri Indah",
     "kecamatan": "Cibatu",
     "pengembang": "PT. BIDURI ADI PRATAMA"
+  },
+  {
+    "idLokasi": "GRT0220062023T001",
+    "namaPerumahan": "Aka Cimurah Permai",
+    "kecamatan": "Karangpawitan",
+    "pengembang": "PT AKA RAFASYA PUTRA"
   },
   {
     "idLokasi": "GRT0220182022T001",
@@ -849,19 +939,31 @@
     "idLokasi": "GRT1020122022T001",
     "namaPerumahan": "GRIYA LANGKAH WASPADA 7",
     "kecamatan": "Kadungora",
-    "pengembang": "LANGKAH WASPADA"
+    "pengembang": "PT LANGKAH WASPADA"
   },
   {
     "idLokasi": "GRT0420102021T001",
     "namaPerumahan": "Bumi Malayu Regency",
     "kecamatan": "Tarogong Kaler",
-    "pengembang": "SAKURA SEJAHTERA"
+    "pengembang": "PT SAKURA SEJAHTERA"
+  },
+  {
+    "idLokasi": "GRT0220152023T001",
+    "namaPerumahan": "TAMAN HIJAU 2",
+    "kecamatan": "Karangpawitan",
+    "pengembang": "PT DITOM PRAKASA PROPERTY"
   },
   {
     "idLokasi": "GRT0320082022T001",
     "namaPerumahan": "Bumi Sindangratu Indah",
     "kecamatan": "Wanaraja",
-    "pengembang": "PATRAYA CIPTA SARANA"
+    "pengembang": "PT PATRAYA CIPTA SARANA"
+  },
+  {
+    "idLokasi": "GRT1520072023T001",
+    "namaPerumahan": "Green Cisalam 2",
+    "kecamatan": "Sukawening",
+    "pengembang": "PT ASKARA BERKAH SAUDARA"
   },
   {
     "idLokasi": "GRT0620142022T001",
@@ -870,88 +972,46 @@
     "pengembang": "HIJRA PRATAMA PROPERTYNDO"
   },
   {
-    "idLokasi": "GRT0220172020T002",
-    "namaPerumahan": "Bumi Sindanglaya Asri",
+    "idLokasi": "GRT0220122023T001",
+    "namaPerumahan": "Harmony Land Sindangpalay",
     "kecamatan": "Karangpawitan",
-    "pengembang": "BERKAH JAYA BERSAMA PROPERTINDO"
+    "pengembang": "PT HARMONY CAHAYA LAND"
   },
   {
-    "idLokasi": "GRT0220152020T001",
-    "namaPerumahan": "PERUMAHAN KANNADA PERMAI ",
+    "idLokasi": "GRT0920092023T001",
+    "namaPerumahan": "Sekala Pasopati",
+    "kecamatan": "Leles",
+    "pengembang": "PT QIANZY ASKARA NAWASENA"
+  },
+  {
+    "idLokasi": "GRT0220152023T002",
+    "namaPerumahan": "GRIYA NAGROG",
     "kecamatan": "Karangpawitan",
-    "pengembang": "PT. KARANG TUMARITIS MANDIRI"
-  },
-  {
-    "idLokasi": "GRT0620062020T004",
-    "namaPerumahan": "Bagendit Citra Land",
-    "kecamatan": "Banyuresmi",
-    "pengembang": "GARUT PRATAMA INTERNUSA"
-  },
-  {
-    "idLokasi": "GRT1920112020T001",
-    "namaPerumahan": "GRIYA MUTIARA MARGALAKSANA",
-    "kecamatan": "Cilawu",
-    "pengembang": "MUTIARA KAWITNA PUTRA"
-  },
-  {
-    "idLokasi": "GRT0220062020T001",
-    "namaPerumahan": "GRIYA MUTIARA CIMURAH",
-    "kecamatan": "Karangpawitan",
-    "pengembang": "MUTIARA KAWITNA PUTRA"
-  },
-  {
-    "idLokasi": "GRT0420062020T001",
-    "namaPerumahan": "SINARJAYA INDAH",
-    "kecamatan": "Tarogong Kaler",
-    "pengembang": "NILANDO INDAH PRATAMA"
-  },
-  {
-    "idLokasi": "GRT1920112020T002",
-    "namaPerumahan": "Bumi cilawu lestari",
-    "kecamatan": "Cilawu",
-    "pengembang": "FAUZAN PRIATNA MANDIRI"
-  },
-  {
-    "idLokasi": "GRT0620012020T003",
-    "namaPerumahan": "KARISMA RESIDENCE BANYURESMI",
-    "kecamatan": "Banyuresmi",
-    "pengembang": "KARISMA GRAHA SILIWANGI"
+    "pengembang": "PT INFINITY LAND CONNECTING"
   },
   {
     "idLokasi": "GRT1520072020T002",
     "namaPerumahan": "PONDOK INDAH MARIPARI",
     "kecamatan": "Sukawening",
-    "pengembang": "PONDOK INDAH MANDIRI"
-  },
-  {
-    "idLokasi": "GRT0620142020T004",
-    "namaPerumahan": "GRIYA AL KAUTSAR",
-    "kecamatan": "Banyuresmi",
-    "pengembang": "ADESIMA RESMI GEMILANG"
+    "pengembang": "PT PONDOK INDAH MANDIRI"
   },
   {
     "idLokasi": "GRT1120072020T001",
     "namaPerumahan": "DAVIRA INDAH",
     "kecamatan": "Leuwigoong",
-    "pengembang": "LEBAK NANGKA AL NUSANTARA"
+    "pengembang": "PT LEBAK NANGKA AL NUSANTARA"
   },
   {
     "idLokasi": "GRT0220092021T001",
     "namaPerumahan": "PERUM PURI PERMATA KARANGPAWITAN",
     "kecamatan": "Karangpawitan",
-    "pengembang": "ESHAN MEGA PROPERTINDO"
-  },
-  {
-    "idLokasi": "GRT1920052020T001",
-    "namaPerumahan": "Griya Ciramat Pasanggrahan",
-    "kecamatan": "Cilawu",
-    "pengembang": "PT. GRAHA MULYA PROPERTI"
+    "pengembang": "PT ESHAN MEGA PROPERTINDO"
   },
   {
     "idLokasi": "GRT4020042021T001",
     "namaPerumahan": "GANESHA BUKIT ASRI",
     "kecamatan": "Cibiuk",
-    "pengembang": "TEKNO CITRA GANESHA"
+    "pengembang": "PT TEKNO CITRA GANESHA"
   },
   {
     "idLokasi": "GRT0220182021T001",
@@ -963,30 +1023,24 @@
     "idLokasi": "GRT0620062021T001",
     "namaPerumahan": "Taman Hijau Cipicung",
     "kecamatan": "Banyuresmi",
-    "pengembang": "DITOM PRAKASA PROPERTY"
-  },
-  {
-    "idLokasi": "GRT0110112020T002",
-    "namaPerumahan": "Griya madani asri",
-    "kecamatan": "Garut Kota",
-    "pengembang": "LINTANG JUNIOR LAND"
+    "pengembang": "PT DITOM PRAKASA PROPERTY"
   },
   {
     "idLokasi": "GRT0110062021T001",
     "namaPerumahan": "Guntur residence III",
     "kecamatan": "Garut Kota",
-    "pengembang": "NUSA WIYASA PROPERTINDO"
+    "pengembang": "PT NUSA WIYASA PROPERTINDO"
   },
   {
     "idLokasi": "GRT0220092020T002",
     "namaPerumahan": "PUNCAK RABBANY CIPARAY",
     "kecamatan": "Karangpawitan",
-    "pengembang": "ASSANUSIYAH SAPALAPUTRA PROPERTY"
+    "pengembang": "PT ASSANUSIYAH SAPALAPUTRA PROPERTY"
   },
   {
     "idLokasi": "GRT3820032021T001",
     "namaPerumahan": "Perumahan bukit galih pakuwon",
-    "kecamatan": "Bl Limbangan",
+    "kecamatan": "Limbangan",
     "pengembang": "SABAR INDOUTAMA"
   },
   {
@@ -999,7 +1053,7 @@
     "idLokasi": "GRT4220042021T001",
     "namaPerumahan": "Natawiria residence",
     "kecamatan": "Sucinaraja",
-    "pengembang": "NUSA WIYASA PROPERTINDO"
+    "pengembang": "PT NUSA WIYASA PROPERTINDO"
   },
   {
     "idLokasi": "GRT0420042021T001",
@@ -1017,79 +1071,25 @@
     "idLokasi": "GRT0320012020T001",
     "namaPerumahan": "Aulia wanaraja",
     "kecamatan": "Wanaraja",
-    "pengembang": "AULIA MITRA KREASI"
-  },
-  {
-    "idLokasi": "GRT0110112020T001",
-    "namaPerumahan": "REZA ALAM RESIDENCE",
-    "kecamatan": "Garut Kota",
-    "pengembang": "REZA ALAM PUTRA"
-  },
-  {
-    "idLokasi": "GRT0920022020T002",
-    "namaPerumahan": "Brilliant residence",
-    "kecamatan": "Leles",
-    "pengembang": "PT. BIDURI NINGRAT ABADI"
+    "pengembang": "PT AULIA MITRA KREASI"
   },
   {
     "idLokasi": "GRT0420102020T004",
     "namaPerumahan": "LEBAK GEDE ASRI TAHAP 3",
     "kecamatan": "Tarogong Kaler",
-    "pengembang": "BANGUN KREASI INTAN PERDANA"
-  },
-  {
-    "idLokasi": "GRT0220042020T003",
-    "namaPerumahan": "JOGLO RESIDENCE",
-    "kecamatan": "Karangpawitan",
-    "pengembang": "GAMA MULIA AWANI"
-  },
-  {
-    "idLokasi": "GRT0220052020T003",
-    "namaPerumahan": "Situgede Madani (MBR)",
-    "kecamatan": "Karangpawitan",
-    "pengembang": "BERKAH SITUGEDE MADANI"
-  },
-  {
-    "idLokasi": "GRT2020102020T001",
-    "namaPerumahan": "Perumahan Bumi Cisurupan",
-    "kecamatan": "Cisurupan",
-    "pengembang": "MANCA GAHAR PERSADA"
-  },
-  {
-    "idLokasi": "GRT0420062020T002",
-    "namaPerumahan": "Perumahan Griya Baru Paros Indah",
-    "kecamatan": "Tarogong Kaler",
-    "pengembang": "AULIA BERKAH BERSAMA"
-  },
-  {
-    "idLokasi": "GRT1420062020T002",
-    "namaPerumahan": "Sakura indah regency",
-    "kecamatan": "Malangbong",
-    "pengembang": "GRAHA LARAS IDEAL"
+    "pengembang": "PT BANGUN KREASI INTAN PERDANA"
   },
   {
     "idLokasi": "GRT4220042021T002",
     "namaPerumahan": "Bumi Sakinah Sucinaraja 2",
     "kecamatan": "Sucinaraja",
-    "pengembang": "MITRATAMA PENGEMBANG SEJAHTERA"
-  },
-  {
-    "idLokasi": "GRT0620122020T001",
-    "namaPerumahan": "PERUM PONDOK MUTIARA BANYURESMI",
-    "kecamatan": "Banyuresmi",
-    "pengembang": "PT. TRI CIPTA PROPERTYNDO"
-  },
-  {
-    "idLokasi": "GRT0210022020T002",
-    "namaPerumahan": "Cempaka lemahneundeut permai",
-    "kecamatan": "Karangpawitan",
-    "pengembang": "BAYU PERKASA MANDIRI"
+    "pengembang": "PT MITRATAMA PENGEMBANG SEJAHTERA"
   },
   {
     "idLokasi": "GRT0220042021T001",
     "namaPerumahan": "Aka Karangpawitan Permai",
     "kecamatan": "Karangpawitan",
-    "pengembang": "AKA RAFASYA PUTRA"
+    "pengembang": "PT AKA RAFASYA PUTRA"
   },
   {
     "idLokasi": "GRT1120062021T001",
@@ -1104,12 +1104,6 @@
     "pengembang": "SABAR INDOUTAMA"
   },
   {
-    "idLokasi": "GRT0220182021T002",
-    "namaPerumahan": "BUKIT TANJUNGSARI ASRI",
-    "kecamatan": "Karangpawitan",
-    "pengembang": "PUTRA FIRDAUS PRIATNA"
-  },
-  {
     "idLokasi": "GRT0620142021T001",
     "namaPerumahan": "Hijra Sukamukti 2",
     "kecamatan": "Banyuresmi",
@@ -1119,7 +1113,7 @@
     "idLokasi": "GRT0520102021T001",
     "namaPerumahan": "Mekargalih View Park",
     "kecamatan": "Tarogong Kidul",
-    "pengembang": "BUANA CAKRA HARMONI"
+    "pengembang": "PT BUANA CAKRA HARMONI"
   },
   {
     "idLokasi": "GRT0620142021T002",
@@ -1131,7 +1125,7 @@
     "idLokasi": "GRT0110032021T001",
     "namaPerumahan": "Harmoni view village",
     "kecamatan": "Garut Kota",
-    "pengembang": "DWIN INDO MADANI GRUP"
+    "pengembang": "PT DWIN INDO MADANI GRUP"
   },
   {
     "idLokasi": "GRT0220042021T002",
@@ -1161,13 +1155,13 @@
     "idLokasi": "GRT0420042021T002",
     "namaPerumahan": "RANCABANGO INTAN RESIDENCE",
     "kecamatan": "Tarogong Kaler",
-    "pengembang": "INARA TIGA PRAKARSA"
+    "pengembang": "PT INARA TIGA PRAKARSA"
   },
   {
     "idLokasi": "GRT4020022021T001",
     "namaPerumahan": "GRAHA PANCAR CIBIUK",
     "kecamatan": "Cibiuk",
-    "pengembang": "PANCAR PAWITAN TRESNASIH"
+    "pengembang": "PT PANCAR PAWITAN TRESNASIH"
   },
   {
     "idLokasi": "GRT0620012021T001",
@@ -1191,7 +1185,13 @@
     "idLokasi": "GRT0520032021T001",
     "namaPerumahan": "VILLA ANGGREK",
     "kecamatan": "Tarogong Kidul",
-    "pengembang": "ARCHILAND INTI PERKASA"
+    "pengembang": "PT ARCHILAND INTI PERKASA"
+  },
+  {
+    "idLokasi": "GRT0320082023T002",
+    "namaPerumahan": "Dinamika Lestari Residence",
+    "kecamatan": "Wanaraja",
+    "pengembang": "PT ARTHA DINAMIKA PROPERTY"
   },
   {
     "idLokasi": "GRT0110052022T001",
@@ -1200,28 +1200,34 @@
     "pengembang": "CAKRA BUMI PANERANG"
   },
   {
+    "idLokasi": "GRT0420102020T003",
+    "namaPerumahan": "Perumahan Bumi Mekarwangi",
+    "kecamatan": "Tarogong Kaler",
+    "pengembang": "PT BUMI WIDJAJA UTAMA"
+  },
+  {
     "idLokasi": "GRT1420072020T001",
     "namaPerumahan": "Perumahan Cakra Buana Asri",
     "kecamatan": "Malangbong",
-    "pengembang": "DWI CENDANA KUSUMA"
+    "pengembang": "PT DWI CENDANA KUSUMA"
   },
   {
     "idLokasi": "GRT0220052020T002",
     "namaPerumahan": "HAMASAH BIRU RESIDENCE",
     "kecamatan": "Karangpawitan",
-    "pengembang": "HAMASAH PUTRA INDONESIA"
+    "pengembang": "PT HAMASAH PUTRA INDONESIA"
   },
   {
     "idLokasi": "GRT0220192020T001",
     "namaPerumahan": "BELAH JAWA PERMAI",
     "kecamatan": "Karangpawitan",
-    "pengembang": "BANGKIT SAKTI WIGUNA"
+    "pengembang": "PT BANGKIT SAKTI WIGUNA"
   },
   {
     "idLokasi": "GRT0220052020T001",
     "namaPerumahan": "PT. Hamasah Putra Indonesia",
     "kecamatan": "Karangpawitan",
-    "pengembang": "HAMASAH PUTRA INDONESIA"
+    "pengembang": "PT HAMASAH PUTRA INDONESIA"
   },
   {
     "idLokasi": "GRT0220042020T002",
@@ -1232,7 +1238,7 @@
   {
     "idLokasi": "GRT3820052020T001",
     "namaPerumahan": "Perumahan Pondok Indah Palasari Cijolang",
-    "kecamatan": "Bl Limbangan",
+    "kecamatan": "Limbangan",
     "pengembang": "GHAZA PRIMA PROPERTI"
   },
   {
@@ -1244,26 +1250,26 @@
   {
     "idLokasi": "GRT3820122020T001",
     "namaPerumahan": "Puri Kulsum",
-    "kecamatan": "Bl Limbangan",
-    "pengembang": "LEBAK NANGKA AL NUSANTARA"
+    "kecamatan": "Limbangan",
+    "pengembang": "PT LEBAK NANGKA AL NUSANTARA"
   },
   {
     "idLokasi": "GRT0320082020T001",
     "namaPerumahan": "Griya Paramarta",
     "kecamatan": "Wanaraja",
-    "pengembang": "PARAMARTA BIRRU PRATAMA"
+    "pengembang": "PT PARAMARTA BIRRU PRATAMA"
   },
   {
     "idLokasi": "GRT1220032020T001",
     "namaPerumahan": "BUNAR INDAH",
     "kecamatan": "Cibatu",
-    "pengembang": "LEBAK NANGKA AL NUSANTARA"
+    "pengembang": "PT LEBAK NANGKA AL NUSANTARA"
   },
   {
     "idLokasi": "GRT3920032020T001",
     "namaPerumahan": "Kondang Regency",
     "kecamatan": "Selaawi",
-    "pengembang": "LEBAK NANGKA AL NUSANTARA"
+    "pengembang": "PT LEBAK NANGKA AL NUSANTARA"
   },
   {
     "idLokasi": "GRT0110102020T001",
@@ -1274,13 +1280,13 @@
   {
     "idLokasi": "GRT3820122020T002",
     "namaPerumahan": "Villa Banen Lestari",
-    "kecamatan": "Bl Limbangan",
+    "kecamatan": "Limbangan",
     "pengembang": "PT. BUMI PUTRI LESTARI"
   },
   {
     "idLokasi": "GRT3820032020T001",
     "namaPerumahan": "Mutiara Galpak Regency",
-    "kecamatan": "Bl Limbangan",
+    "kecamatan": "Limbangan",
     "pengembang": "PT. BUMI PUTRI LESTARI"
   },
   {
@@ -1293,7 +1299,7 @@
     "idLokasi": "GRT0220092020T001",
     "namaPerumahan": "Perum Oma Indah Garut",
     "kecamatan": "Karangpawitan",
-    "pengembang": "EKA SURYA MUTIARA"
+    "pengembang": "PT EKA SURYA MUTIARA"
   },
   {
     "idLokasi": "GRT0420072020T001",
@@ -1305,7 +1311,7 @@
     "idLokasi": "GRT0510022020T001",
     "namaPerumahan": "Griya pamoyanan 3",
     "kecamatan": "Tarogong Kidul",
-    "pengembang": "MERKURI UTAMA INDAH SEJAHTERA"
+    "pengembang": "PT MERKURI UTAMA INDAH SEJAHTERA"
   },
   {
     "idLokasi": "GRT0620142020T001",
@@ -1317,13 +1323,31 @@
     "idLokasi": "GRT0620112020T001",
     "namaPerumahan": "Griya Rancapari",
     "kecamatan": "Banyuresmi",
-    "pengembang": "ESHAN MEGA PROPERTINDO"
+    "pengembang": "PT ESHAN MEGA PROPERTINDO"
   },
   {
     "idLokasi": "GRT0420072020T002",
     "namaPerumahan": "PUTRI DINAR LESTARI",
     "kecamatan": "Tarogong Kaler",
-    "pengembang": "YUDHA PERKASA INDONESIA JAYA"
+    "pengembang": "PT YUDHA PERKASA INDONESIA JAYA"
+  },
+  {
+    "idLokasi": "GRT0220172020T002",
+    "namaPerumahan": "Bumi Sindanglaya Asri",
+    "kecamatan": "Karangpawitan",
+    "pengembang": "BERKAH JAYA BERSAMA PROPERTINDO"
+  },
+  {
+    "idLokasi": "GRT0220152020T001",
+    "namaPerumahan": "PERUMAHAN KANNADA PERMAI",
+    "kecamatan": "Karangpawitan",
+    "pengembang": "PT. KARANG TUMARITIS MANDIRI"
+  },
+  {
+    "idLokasi": "GRT0620062020T004",
+    "namaPerumahan": "Bagendit Citra Land",
+    "kecamatan": "Banyuresmi",
+    "pengembang": "PT GARUT PRATAMA INTERNUSA"
   },
   {
     "idLokasi": "GRT0220122020T001",
@@ -1335,7 +1359,7 @@
     "idLokasi": "GRT0620062020T003",
     "namaPerumahan": "GREEN GARDEN RESIDENCE",
     "kecamatan": "Banyuresmi",
-    "pengembang": "BUMI HASYA PERKASA"
+    "pengembang": "PT BUMI HASYA PERKASA"
   },
   {
     "idLokasi": "GRT0620062020T001",
@@ -1346,20 +1370,44 @@
   {
     "idLokasi": "GRT3820012020T001",
     "namaPerumahan": "GRAHA PANCAR PAWITAN",
-    "kecamatan": "Bl Limbangan",
-    "pengembang": "PANCAR PAWITAN TRESNASIH"
+    "kecamatan": "Limbangan",
+    "pengembang": "PT PANCAR PAWITAN TRESNASIH"
+  },
+  {
+    "idLokasi": "GRT1920112020T001",
+    "namaPerumahan": "GRIYA MUTIARA MARGALAKSANA",
+    "kecamatan": "Cilawu",
+    "pengembang": "PT MUTIARA KAWITNA PUTRA"
+  },
+  {
+    "idLokasi": "GRT0220062020T001",
+    "namaPerumahan": "GRIYA MUTIARA CIMURAH",
+    "kecamatan": "Karangpawitan",
+    "pengembang": "PT MUTIARA KAWITNA PUTRA"
   },
   {
     "idLokasi": "GRT0420102020T001",
     "namaPerumahan": "LEBAK GEDE ASRI TAHAP 2",
     "kecamatan": "Tarogong Kaler",
-    "pengembang": "BANGUN KREASI INTAN PERDANA"
+    "pengembang": "PT BANGUN KREASI INTAN PERDANA"
+  },
+  {
+    "idLokasi": "GRT0420062020T001",
+    "namaPerumahan": "SINARJAYA INDAH",
+    "kecamatan": "Tarogong Kaler",
+    "pengembang": "PT NILANDO INDAH PRATAMA"
+  },
+  {
+    "idLokasi": "GRT1920112020T002",
+    "namaPerumahan": "Bumi cilawu lestari",
+    "kecamatan": "Cilawu",
+    "pengembang": "PT FAUZAN PRIATNA MANDIRI"
   },
   {
     "idLokasi": "GRT0210022020T001",
     "namaPerumahan": "Cempaka Intan Residence",
     "kecamatan": "Karangpawitan",
-    "pengembang": "INARA TIGA PRAKARSA"
+    "pengembang": "PT INARA TIGA PRAKARSA"
   },
   {
     "idLokasi": "GRT0320082020T002",
@@ -1380,28 +1428,46 @@
     "pengembang": "NAZAR BAHANA PERSADA"
   },
   {
+    "idLokasi": "GRT0620012020T003",
+    "namaPerumahan": "KARISMA RESIDENCE BANYURESMI",
+    "kecamatan": "Banyuresmi",
+    "pengembang": "PT KARISMA GRAHA SILIWANGI"
+  },
+  {
+    "idLokasi": "GRT0620142020T004",
+    "namaPerumahan": "GRIYA AL KAUTSAR",
+    "kecamatan": "Banyuresmi",
+    "pengembang": "ADESIMA RESMI GEMILANG"
+  },
+  {
     "idLokasi": "GRT0220072020T001",
     "namaPerumahan": "Cimasuk Residence",
     "kecamatan": "Karangpawitan",
-    "pengembang": "KARYA SAUDARA ABADI"
+    "pengembang": "PT KARYA SAUDARA ABADI"
   },
   {
     "idLokasi": "GRT0420102020T002",
     "namaPerumahan": "Griya Ciroyom Indah",
     "kecamatan": "Tarogong Kaler",
-    "pengembang": "KARYA SAUDARA ABADI"
+    "pengembang": "PT KARYA SAUDARA ABADI"
   },
   {
     "idLokasi": "GRT0620062020T002",
     "namaPerumahan": "Griya Banyuresmi Indah 2",
     "kecamatan": "Banyuresmi",
-    "pengembang": "KARYA SAUDARA ABADI"
+    "pengembang": "PT KARYA SAUDARA ABADI"
+  },
+  {
+    "idLokasi": "GRT1920052020T001",
+    "namaPerumahan": "Griya Ciramat Pasanggrahan",
+    "kecamatan": "Cilawu",
+    "pengembang": "PT. GRAHA MULYA PROPERTI"
   },
   {
     "idLokasi": "GRT0220042020T001",
     "namaPerumahan": "Perumahan Banyuvilas Kiarapayung",
     "kecamatan": "Karangpawitan",
-    "pengembang": "DITOM PRAKASA PROPERTY"
+    "pengembang": "PT DITOM PRAKASA PROPERTY"
   },
   {
     "idLokasi": "GRT0920092020T001",
@@ -1428,20 +1494,14 @@
     "pengembang": "PROPERTI MANDALA 525"
   },
   {
-    "idLokasi": "GRT0520052020T001",
-    "namaPerumahan": "BUMI CIBUNAR ASRI",
-    "kecamatan": "Tarogong Kidul",
-    "pengembang": "PUTRA FIRDAUS PRIATNA"
-  },
-  {
     "idLokasi": "GRT1920152020T001",
     "namaPerumahan": "RABBANY MUNJUL DAYEUH LUHUR",
     "kecamatan": "Cilawu",
-    "pengembang": "ASSANUSIYAH SAPALAPUTRA PROPERTY"
+    "pengembang": "PT ASSANUSIYAH SAPALAPUTRA PROPERTY"
   },
   {
     "idLokasi": "GRT0420042020T002",
-    "namaPerumahan": "BUMI RANCABANGO INDAH ",
+    "namaPerumahan": "BUMI RANCABANGO INDAH",
     "kecamatan": "Tarogong Kaler",
     "pengembang": "PT. RAZA PUTRA MANDIRI BANDUNG"
   },
@@ -1449,31 +1509,55 @@
     "idLokasi": "GRT0420042020T001",
     "namaPerumahan": "Bumi Rancabango Permai",
     "kecamatan": "Tarogong Kaler",
-    "pengembang": "RAZA PUTRA MAHKOTA"
+    "pengembang": "PT RAZA PUTRA MAHKOTA"
   },
   {
-    "idLokasi": "GRT0320022020T002",
-    "namaPerumahan": "Mughni Wanamekar Asri",
-    "kecamatan": "Wanaraja",
-    "pengembang": "MUGHNI BERKAH SADAYA"
+    "idLokasi": "GRT0110112020T001",
+    "namaPerumahan": "REZA ALAM RESIDENCE",
+    "kecamatan": "Garut Kota",
+    "pengembang": "PT REZA ALAM PUTRA"
+  },
+  {
+    "idLokasi": "GRT0920022020T002",
+    "namaPerumahan": "Brilliant residence",
+    "kecamatan": "Leles",
+    "pengembang": "PT. BIDURI NINGRAT ABADI"
   },
   {
     "idLokasi": "GRT0720032020T001",
     "namaPerumahan": "griya sanding indah",
     "kecamatan": "Samarang",
-    "pengembang": "BAKTI HARAPAN JAYA"
+    "pengembang": "PT BAKTI HARAPAN JAYA"
   },
   {
     "idLokasi": "GRT0220182020T002",
     "namaPerumahan": "GRAND HOUSE RESIDENCE CLUSTER AS-SALAAM",
     "kecamatan": "Karangpawitan",
-    "pengembang": "SINAR GODAM"
+    "pengembang": "PT SINAR GODAM"
   },
   {
     "idLokasi": "GRT1920092020T001",
     "namaPerumahan": "Ngamplang City View",
     "kecamatan": "Cilawu",
-    "pengembang": "ARCHILAND INTI PERKASA"
+    "pengembang": "PT ARCHILAND INTI PERKASA"
+  },
+  {
+    "idLokasi": "GRT0220042020T003",
+    "namaPerumahan": "JOGLO RESIDENCE",
+    "kecamatan": "Karangpawitan",
+    "pengembang": "GAMA MULIA AWANI"
+  },
+  {
+    "idLokasi": "GRT0220052020T003",
+    "namaPerumahan": "Situgede Madani (MBR)",
+    "kecamatan": "Karangpawitan",
+    "pengembang": "BERKAH SITUGEDE MADANI"
+  },
+  {
+    "idLokasi": "GRT2020102020T001",
+    "namaPerumahan": "Perumahan Bumi Cisurupan",
+    "kecamatan": "Cisurupan",
+    "pengembang": "PT MANCA GAHAR PERSADA"
   },
   {
     "idLokasi": "GRT0220182020T001",
@@ -1482,22 +1566,40 @@
     "pengembang": "PT. NURMA UTAMA MANDIRI"
   },
   {
+    "idLokasi": "GRT0420062020T002",
+    "namaPerumahan": "Perumahan Griya Baru Paros Indah",
+    "kecamatan": "Tarogong Kaler",
+    "pengembang": "AULIA BERKAH BERSAMA"
+  },
+  {
     "idLokasi": "GRT0320082020T003",
     "namaPerumahan": "TAMAN AIR LAND",
     "kecamatan": "Wanaraja",
     "pengembang": "ABIRAMA INTIKARYA REKSA"
   },
   {
+    "idLokasi": "GRT1420062020T002",
+    "namaPerumahan": "Sakura indah regency",
+    "kecamatan": "Malangbong",
+    "pengembang": "GRAHA LARAS IDEAL"
+  },
+  {
     "idLokasi": "GRT4220042020T001",
     "namaPerumahan": "BUMI SAKINAH SUCINARAJA",
     "kecamatan": "Sucinaraja",
-    "pengembang": "MITRATAMA PENGEMBANG SEJAHTERA"
+    "pengembang": "PT MITRATAMA PENGEMBANG SEJAHTERA"
+  },
+  {
+    "idLokasi": "GRT0620122020T001",
+    "namaPerumahan": "PERUM PONDOK MUTIARA BANYURESMI",
+    "kecamatan": "Banyuresmi",
+    "pengembang": "PT. TRI CIPTA PROPERTYNDO"
   },
   {
     "idLokasi": "GRT2720012020T001",
     "namaPerumahan": "Bukit cikopo indah",
     "kecamatan": "Pameungpeuk",
-    "pengembang": "SURYA TRI MEGA UTAMA"
+    "pengembang": "PT SURYA TRI MEGA UTAMA"
   },
   {
     "idLokasi": "GRT0620092020T001",
@@ -1506,27 +1608,27 @@
     "pengembang": "CIJAYANA SUKSES MANDIRI"
   },
   {
-    "idLokasi": "GRT0320112020T001",
-    "namaPerumahan": "Griya talaga Bodas",
-    "kecamatan": "Wanaraja",
-    "pengembang": "DJAYA ABADI CIPTA SARANA"
+    "idLokasi": "GRT0210022020T002",
+    "namaPerumahan": "Cempaka lemahneundeut permai",
+    "kecamatan": "Karangpawitan",
+    "pengembang": "PT BAYU PERKASA MANDIRI"
   },
   {
     "idLokasi": "GRT0620142020T002",
     "namaPerumahan": "sukamukti regency",
     "kecamatan": "Banyuresmi",
-    "pengembang": "GOLDEN KREASI MANDIRI"
+    "pengembang": "PT GOLDEN KREASI MANDIRI"
   },
   {
     "idLokasi": "GRT4120062020T001",
     "namaPerumahan": "VISTA PERDANIA",
     "kecamatan": "Pangatikan",
-    "pengembang": "RUMAKITA PRIMA KARSA"
+    "pengembang": "PT RUMAKITA PRIMA KARSA"
   },
   {
     "idLokasi": "GRT0920062020T001",
     "namaPerumahan": "KALEA PASOPATI",
     "kecamatan": "Leles",
-    "pengembang": "PRIATNA MANUNGGAL LIMA"
+    "pengembang": "PT PRIATNA MANUNGGAL LIMA"
   }
 ]
