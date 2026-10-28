@@ -37,8 +37,10 @@ if st.button("Lihat Laporan"):
         url = f"https://sikumbang.tapera.go.id/lokasi-perumahan/{id_lokasi}/json"
         try:
             response = requests.get(url)
+            print(response.status)
             response.raise_for_status()
             data = response.json()
+            print(data)
 
             st.subheader("📋 Laporan Perumahan")
             # Extract main details
