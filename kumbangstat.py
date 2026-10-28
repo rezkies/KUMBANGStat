@@ -35,7 +35,7 @@ if st.button("Lihat Laporan"):
 
         # Fetch JSON from URL
         url = f"https://sikumbang.tapera.go.id/lokasi-perumahan/{id_lokasi}/json"
-                siteplan_url = (
+        siteplan_url = (
             f"https://sikumbang.tapera.go.id/lokasi-perumahan/{id_lokasi}/siteplan"
         )
 
