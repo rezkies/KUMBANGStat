@@ -111,6 +111,6 @@ if st.button("Lihat Laporan"):
         except requests.RequestException as e:
             st.error(f"Gagal mengambil data: {e}")
             st.error(f"{response.status_code}")
-            st.error(f"{data}")
+            st.error(f"{response.text}")
     else:
         st.warning("Tidak ditemukan data yang cocok.")
