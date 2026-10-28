@@ -35,12 +35,35 @@ if st.button("Lihat Laporan"):
 
         # Fetch JSON from URL
         url = f"https://sikumbang.tapera.go.id/lokasi-perumahan/{id_lokasi}/json"
+                siteplan_url = (
+            f"https://sikumbang.tapera.go.id/lokasi-perumahan/{id_lokasi}/siteplan"
+        )
+
+        session = requests.Session()
+
+        headers = {
+            "Accept": "*/*",
+            "Accept-Language": "id,en-US;q=0.9,en;q=0.8,ms;q=0.7,es;q=0.6",
+            "Referer": siteplan_url,
+            "User-Agent": "Mozilla/5.0",
+        }
+
         try:
-            response = requests.get(url)
-            print(response.status_code)
+            session.get(siteplan_url, headers=headers, timeout=30)
+
+            response = session.get(url, headers=headers, timeout=30)
             response.raise_for_status()
+
+            content_type = response.headers.get("Content-Type", "")
+
+            if "json" not in content_type.lower():
+                raise ValueError(
+                    f"Expected JSON, received {content_type}: "
+                    f"{response.text[:300]}"
+                )
+
             data = response.json()
-            print(data)
+
 
             st.subheader("📋 Laporan Perumahan")
             # Extract main details
